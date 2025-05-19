@@ -11,14 +11,12 @@ Welcome to my repository for **CodeSprint 2.0**, a 45-day coding marathon organi
 
 ---
 
-## ✅ Progress Snapshot
-
-| Day | Problems Covered                                  | Topics                     |
-|-----|---------------------------------------------------|----------------------------|
-| 1   | Shivam Buys Ice Cream, Vir’s Archery Practice     | Conditionals, Loops        |
-| 2   | Critical Jam Hours, Magical Days in Marathon      | Arrays, Logic, Comparisons |
-| 3   | Overstocked Warehouses, Longest Increasing Temps  | 2D Arrays, Subarrays       |
-| ... | (More coming soon...)                             |                            |
+| Day          | Problems Solved                                                       | Key Topics                                    |
+| ------------ | --------------------------------------------------------------------- | --------------------------------------------- |
+| 🟢 **Day 1** | ✅ Can Shivam Buy Ice Cream<br>✅ Vir’s Archery Practice                | Conditionals, Simple Logic                    |
+| 🟡 **Day 2** | ✅ Critical Jam Hours Detection<br>✅ Magical Days in Marathon          | Arrays, Comparisons, Peak Detection           |
+| 🟠 **Day 3** | ✅ Overstocked Warehouses<br>✅ Longest Increasing Temperature Subarray | 2D Arrays, Sliding Windows, Count Logic       |
+| 🔷 **Day 4** | ✅ Zig-Zag Marathon Pattern<br>✅ X-Pattern Matrix Puzzle               | Pattern Printing, Center Alignment, Diagonals |
 
 ---
 
