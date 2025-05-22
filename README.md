@@ -9,24 +9,15 @@ Welcome to my repository for **CodeSprint 2.0**, a 45-day coding marathon organi
 🧠 **Daily Challenges:** 1–2 coding problems  
 🎯 **Goal:** Practice, improve, and showcase logical thinking, algorithmic fluency, and Python skills
 
----
-
-| Day          | Problems Solved                                                       | Key Topics                                    |
-| ------------ | --------------------------------------------------------------------- | --------------------------------------------- |
-| 🟢 **Day 1** | ✅ Can Shivam Buy Ice Cream<br>✅ Vir’s Archery Practice                | Conditionals, Simple Logic                    |
-| 🟡 **Day 2** | ✅ Critical Jam Hours Detection<br>✅ Magical Days in Marathon          | Arrays, Comparisons, Peak Detection           |
-| 🟠 **Day 3** | ✅ Overstocked Warehouses<br>✅ Longest Increasing Temperature Subarray | 2D Arrays, Sliding Windows, Count Logic       |
-| 🔷 **Day 4** | ✅ Zig-Zag Marathon Pattern<br>✅ X-Pattern Matrix Puzzle               | Pattern Printing, Center Alignment, Diagonals |
-
----
-
-## 🧠 Skills Practiced
-
-- Control Flow (if-else, loops)
-- 1D and 2D Array manipulation
-- Conditional logic
-- Sliding window and pattern recognition
-- Problem decomposition and Pythonic code writing
+| Day          | Problems Solved                                                         | Key Topics Covered                           |
+| ------------ | ----------------------------------------------------------------------- | -------------------------------------------- |
+| 🟢 **Day 1** | ✅ Can Shivam Buy Ice Cream <br> ✅ Vir’s Archery Practice                | Conditionals, Basic Logic                    |
+| 🟡 **Day 2** | ✅ Critical Jam Hours Detection <br> ✅ Magical Days in the Marathon      | Arrays, Comparative Logic, Peak Detection    |
+| 🟠 **Day 3** | ✅ Overstocked Warehouses <br> ✅ Longest Increasing Temperature Subarray | 2D Arrays, Sliding Window, Count-Based Logic |
+| 🔷 **Day 4** | ✅ Zig-Zag Marathon Pattern <br> ✅ X-Pattern Matrix Puzzle               | Pattern Printing, Alignment, Diagonal Logic  |
+| 🔵 **Day 5** | ✅ Exam Seating Arrangement <br> ✅ Emotional Balance in a String         | Matrix Simulation, String Frequency Check    |
+| 🟣 **Day 6** | ✅ Vowel-Starting Patient Names <br> ✅ Jewel Stones Counter              | String Filtering, Sets, Character Comparison |
+| 🟤 **Day 7** | ✅ Movement Segment Counter <br> ✅ Maximize Stock Profit (Min Threshold) | Binary Segmentation, Greedy Profit Logic     |
 
 ---
 
