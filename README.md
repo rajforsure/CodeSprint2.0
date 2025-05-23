@@ -34,4 +34,3 @@ By the end of 45 days, this journey will be a reflection of my growth as a coder
 ---
 
 > “Every day you code, you're a day closer to mastery.” 💻🔥
-
