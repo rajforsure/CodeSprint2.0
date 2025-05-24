@@ -14,6 +14,7 @@ Welcome to my repository for **CodeSprint 2.0**, a 45-day coding marathon organi
 | 🔶 **Day 6** | ✅ Vowel-Starting Unique Names<br>✅ Jewel Stones Counter                     | Sets, Filtering, Character Matching    |
 | 🔵 **Day 7** | ✅ Movement Segment Counter<br>✅ Maximize Stock Profit with Min Threshold    | Binary String Analysis, Greedy Logic   |
 | 🌟 **Day 8** | ✅ Min Length Subarray for Calorie Goal<br>✅ Reverse & Clean the Speech Line | Sliding Window, String Manipulation    |
+| 🔵 **Day 9** | ✅ Anagram Detection in Log Stream<br>✅ Pattern Match Detection using Hashing | Strings, Hashing, Sliding Window, Pattern Matching |
 
 
 ## 🔧 Tools Used
