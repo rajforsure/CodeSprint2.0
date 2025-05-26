@@ -2,19 +2,20 @@
 
 Welcome to my repository for **CodeSprint 2.0**, a 45-day coding marathon organized by [USC KIIT]. This challenge is designed to sharpen problem-solving skills through daily coding tasks that span across logic, loops, conditionals, arrays, and more — all with increasing difficulty levels.
 
----
+| Day           | Problems Solved                                                                  | Key Topics                                       |
+| ------------- | -------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 🟢 **Day 1**  | ✅ Can Shivam Buy Ice Cream<br>✅ Vir’s Archery Practice                           | Conditionals, Simple Logic                       |
+| 🟡 **Day 2**  | ✅ Critical Jam Hours Detection<br>✅ Magical Days in Marathon                     | Arrays, Comparisons, Peak Detection              |
+| 🟠 **Day 3**  | ✅ Overstocked Warehouses<br>✅ Longest Increasing Temperature Subarray            | 2D Arrays, Sliding Windows, Count Logic          |
+| 🔷 **Day 4**  | ✅ Zig-Zag Marathon Pattern<br>✅ X-Pattern Matrix Puzzle                          | Pattern Printing, Center Alignment, Diagonals    |
+| 🔵 **Day 5**  | ✅ Exam Seating Arrangement<br>✅ Emotional Balance in a String                    | Matrix Loops, Conditions, Frequency Counting     |
+| 🟣 **Day 6**  | ✅ Vowel-Starting Unique Patient Names<br>✅ Jewel Stones Counter                  | String Filtering, Set Operations, Character Maps |
+| 🟤 **Day 7**  | ✅ Movement Segment Counter<br>✅ Maximize Stock Profit with Minimum Threshold     | Binary Logic, Greedy Thinking, Peak Strategy     |
+| 🔶 **Day 8**  | ✅ Minimum Length Subarray for Calorie Goal<br>✅ Reverse & Clean the Speech Line  | Sliding Window, String Manipulation              |
+| ⚪ **Day 9**   | ✅ Anagram Detection in Logs<br>✅ Pattern Match Detection using Hashing           | Hash Maps, Pattern Matching, String Windows      |
+| 🧿 **Day 10** | ✅ Sorted Linked List Deduplication<br>✅ Classic Keypad Combinations Generator    | Linked List Deduplication, Backtracking          |
+| 🧩 **Day 11** | ✅ Zig-Zag Appointment Reordering<br>✅ Cycle Detection & Removal in Delivery List | Real Life Simulation, Floyd’s Cycle Detection    |
 
-| Day          | Problems Solved                                                             | Key Topics                             |
-| ------------ | --------------------------------------------------------------------------- | -------------------------------------- |
-| 🟢 **Day 1** | ✅ Can Shivam Buy Ice Cream<br>✅ Vir’s Archery Practice                      | Conditionals, Simple Logic             |
-| 🟡 **Day 2** | ✅ Critical Jam Hours Detection<br>✅ Magical Days in Marathon                | Arrays, Comparisons, Peak Detection    |
-| 🟠 **Day 3** | ✅ Overstocked Warehouses<br>✅ Longest Increasing Temperature Subarray       | 2D Arrays, Sliding Window, Count Logic |
-| 🔷 **Day 4** | ✅ Zig-Zag Marathon Pattern<br>✅ X-Pattern Matrix Puzzle                     | Pattern Printing, Diagonal Logic       |
-| 🟣 **Day 5** | ✅ Exam Seating Checkerboard<br>✅ Emotional Balance in a String              | Matrix Simulation, Frequency Mapping   |
-| 🔶 **Day 6** | ✅ Vowel-Starting Unique Names<br>✅ Jewel Stones Counter                     | Sets, Filtering, Character Matching    |
-| 🔵 **Day 7** | ✅ Movement Segment Counter<br>✅ Maximize Stock Profit with Min Threshold    | Binary String Analysis, Greedy Logic   |
-| 🌟 **Day 8** | ✅ Min Length Subarray for Calorie Goal<br>✅ Reverse & Clean the Speech Line | Sliding Window, String Manipulation    |
-| 🔵 **Day 9** | ✅ Anagram Detection in Log Stream<br>✅ Pattern Match Detection using Hashing | Strings, Hashing, Sliding Window, Pattern Matching |
 
 
 ## 🔧 Tools Used
