@@ -1,6 +1,6 @@
 # 🚀 CodeSprint 2.0 – My Coding Journey
 
-Welcome to my repository for CodeSprint 2.0, a 45-day coding marathon organized by [USC KIIT]. This challenge is designed to sharpen problem-solving skills through daily coding tasks that span across logic, loops, conditionals, arrays, linked lists, sorting algorithms, and more — all with increasing difficulty levels. From basic conditionals and array manipulations to advanced data structures like linked lists and complex algorithmic patterns, this journey covers essential programming concepts that build a strong foundation for technical interviews and real-world problem solving.
+Welcome to my repository for CodeSprint 2.0, a 45-day coding marathon organized by USC KIIT. This challenge is designed to sharpen problem-solving skills through daily coding tasks that span across logic, loops, conditionals, arrays, linked lists, sorting algorithms, and more — all with increasing difficulty levels. From basic conditionals and array manipulations to advanced data structures like linked lists and complex algorithmic patterns, this journey covers essential programming concepts that build a strong foundation for technical interviews and real-world problem solving.
 
 | Day           | Problems Solved                                                                  | Key Topics                                       |
 | ------------- | -------------------------------------------------------------------------------- | ------------------------------------------------ |
