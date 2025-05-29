@@ -16,8 +16,8 @@ Welcome to my repository for CodeSprint 2.0, a 45-day coding marathon organized 
 | 🧿 **Day 10** | ✅ Sorted Linked List Deduplication✅ Classic Keypad Combinations Generator    | Linked List Deduplication, Backtracking          |
 | 🧩 **Day 11** | ✅ Zig-Zag Appointment Reordering✅ Cycle Detection & Removal in Delivery List | Real Life Simulation, Floyd's Cycle Detection    |
 | 🎯 **Day 12** | ✅ Temperature Sorting in Linked List✅ Package Color Sorting                  | Insertion Sort, Counting Sort, Linked Lists      |
-| 🎪 **Day 13** | ✅ Split Linked List into K Parts✅ Doubly Linked List Sorting                | List Partitioning, Doubly Linked Lists, Sorting  |
-
+| 🎪 **Day 13** | ✅ Split Linked List into K Parts✅ Doubly Linked List Sorting                 | List Partitioning, Doubly Linked Lists, Sorting  |
+| 🎡 **Day 14** | ✅ Parade Leader Selection✅ Magic Ticket Machine                              | Two-Pointer Middle Search, Big Integer Doubling  |
 
 ## 🔧 Tools Used
 
