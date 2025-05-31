@@ -22,7 +22,7 @@ Welcome to my repository for CodeSprint 2.0, a 45-day coding marathon organized 
 ## 🔧 Tools Used
 
 - **Language:** Python 3  
-- **Editor:** VS Code / CodeSprint Platform  
+- **Editor:** VS Code
 - **Version Control:** Git & GitHub  
 - **OS:** Windows
 
@@ -30,8 +30,7 @@ Welcome to my repository for CodeSprint 2.0, a 45-day coding marathon organized 
 
 ## 🎯 Purpose
 
-This repository is not just about solving problems — it’s about consistency, learning, debugging, and pushing the boundaries of logic and code efficiency one problem at a time.
-
+This repository is not just about solving problems — it’s about consistency, learning, debugging, and pushing the boundaries of logic and code efficiency.
 By the end of 45 days, this journey will be a reflection of my growth as a coder and a learner.
 
 ---
