@@ -1,0 +1,13 @@
+from collections import deque
+
+d = list(map(int, input("Enter deck: ").split()))
+q = deque()
+for x in sorted(d)[::-1]:
+    q.appendlwft(x) if not q else q.appendleft(q.pop()) or q.appendleft(x)
+
+res =[]
+while q:
+    res.append(q.popleft())
+    if q: q.append(q.popleft())
+
+print("Revealed Order:", res)
